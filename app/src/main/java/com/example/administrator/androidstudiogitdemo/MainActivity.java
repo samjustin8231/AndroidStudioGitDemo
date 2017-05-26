@@ -28,4 +28,8 @@ public class MainActivity extends AppCompatActivity {
     public int devideNums(int num1,int num2){
         return num1/num2;
     }
+
+    public int munNums(int num1,int num2){
+        return num1*num2;
+    }
 }
