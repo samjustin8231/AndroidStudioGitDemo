@@ -24,4 +24,8 @@ public class MainActivity extends AppCompatActivity {
     public int subNums(int num1,int num2){
         return num1-num2;
     }
+
+    public int devideNums(int num1,int num2){
+        return num1/num2;
+    }
 }
