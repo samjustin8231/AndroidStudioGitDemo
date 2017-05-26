@@ -29,6 +29,12 @@ public class MainActivity extends AppCompatActivity {
         return num1/num2;
     }
 
+    /**
+     * 乘法
+     * @param num1 因数1
+     * @param num2 因数2
+     * @return 积
+     */
     public int munNums(int num1,int num2){
         return num1*num2;
     }
